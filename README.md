@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/engrix-banner-dark.svg">
+  <img alt="Engrix" src="assets/engrix-banner-light.svg" width="720">
+</picture>
+
 # Hi, I'm Reno 👋 — founder of **Engrix**
 
 I design and build software from first idea to finished product — from a rough idea or a stubborn problem to something that actually works in production.
