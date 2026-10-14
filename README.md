@@ -5,18 +5,24 @@
 
 # Engrix
 
-Engrix is an independent AI tooling brand — one developer, no committee — building
-the layer between people and their AI providers: routers, agents, retrieval
-pipelines, and the glue that holds it all together.
+Engrix is an independent software brand — one developer, no committee — building
+automation systems, backend APIs, and developer tooling: the kind of software
+that quietly handles the boring parts so people don't have to.
+
+What Engrix builds, in short:
+
+- ⚙️ **Automation** — scripts, workflows, and pipelines that turn repeated work into a single command
+- 🔌 **Backend APIs** — clean, well-typed services that hold products together
+- 🛠️ **Developer tooling** — gateways, adapters, and the glue between systems
 
 Every product here started as a tool that was actually needed, got battle-tested
 in daily use, then shipped.
 
-## Products
+## Projects
 
-- **[engrix-router](https://github.com/engrix/engrix-router)** — OpenAI/Anthropic-compatible local API gateway that routes requests across multiple AI providers. Typed, tested, CI'd.
+- **[engrix-router](https://github.com/engrix/engrix-router)** — an API gateway that routes requests across multiple providers. Typed, tested, CI'd.
 - **[engrix-router-providers](https://github.com/engrix/engrix-router-providers)** — provider adapters that plug into the router.
-- **engrix-agent** — a personal AI agent platform (agents, tools, skills, ML) — mostly private, for now.
+- **engrix-agent** — a personal automation platform with its own toolbox and skills — mostly private, for now.
 
 ## Toolbox
 
