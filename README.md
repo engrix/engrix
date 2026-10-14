@@ -3,17 +3,20 @@
   <img alt="Engrix" src="assets/engrix-banner-light.svg" width="720">
 </picture>
 
-# Hi, I'm Reno 👋
+# Engrix
 
-Developer who likes living close to the AI stack — agents, API gateways, retrieval
-pipelines, and the automation glue around them. Most of what I build starts as a
-tool I needed myself, then grows until it's worth shipping.
+Engrix is an independent AI tooling brand — one developer, no committee — building
+the layer between people and their AI providers: routers, agents, retrieval
+pipelines, and the glue that holds it all together.
 
-## What I'm building
+Every product here started as a tool that was actually needed, got battle-tested
+in daily use, then shipped.
+
+## Products
 
 - **[engrix-router](https://github.com/engrix/engrix-router)** — OpenAI/Anthropic-compatible local API gateway that routes requests across multiple AI providers. Typed, tested, CI'd.
 - **[engrix-router-providers](https://github.com/engrix/engrix-router-providers)** — provider adapters that plug into the router.
-- **engrix-agent** — personal AI agent platform (agents, tools, skills, ML) — mostly private, for now.
+- **engrix-agent** — a personal AI agent platform (agents, tools, skills, ML) — mostly private, for now.
 
 ## Toolbox
 
@@ -24,7 +27,7 @@ tool I needed myself, then grows until it's worth shipping.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Reach me
+## Contact
 
 - ✉️ **engrixdev@outlook.com**
 - 💬 Telegram: [@engrix](https://t.me/engrix)
