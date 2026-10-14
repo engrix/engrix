@@ -3,23 +3,17 @@
   <img alt="Engrix" src="assets/engrix-banner-light.svg" width="720">
 </picture>
 
-# Hi, I'm Reno 👋 — founder of **Engrix**
+# Hi, I'm Reno 👋
 
-I design and build software from first idea to finished product — from a rough idea or a stubborn problem to something that actually works in production.
+Developer who likes living close to the AI stack — agents, API gateways, retrieval
+pipelines, and the automation glue around them. Most of what I build starts as a
+tool I needed myself, then grows until it's worth shipping.
 
-## What I do
+## What I'm building
 
-- 🤖 **AI agents** — autonomous systems that plan, use tools, and get real work done
-- 🔎 **RAG systems** — retrieval pipelines that make LLMs actually know things
-- 🧠 **Machine learning** — from prototypes to models doing useful work
-- ⚙️ **Automation** — if I have to do it twice, it becomes a script
-- 🧩 **Backend services** — the glue and plumbing that hold it all together
-
-## How I work
-
-Python and Node.js are my daily tools, but I choose whatever suits the problem.
-Everything I ship is built to be **secure, clean, and easy to maintain** — code that
-still makes sense six months later.
+- **[engrix-router](https://github.com/engrix/engrix-router)** — OpenAI/Anthropic-compatible local API gateway that routes requests across multiple AI providers. Typed, tested, CI'd.
+- **[engrix-router-providers](https://github.com/engrix/engrix-router-providers)** — provider adapters that plug into the router.
+- **engrix-agent** — personal AI agent platform (agents, tools, skills, ML) — mostly private, for now.
 
 ## Toolbox
 
@@ -29,8 +23,6 @@ still makes sense six months later.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-> *Bring me a rough idea or a stubborn problem, and I'll help you shape it into something that works.*
 
 ## Reach me
 
