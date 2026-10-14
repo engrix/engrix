@@ -15,6 +15,12 @@ What Engrix builds, in short:
 - 🔌 **Backend APIs** — clean, well-typed services that hold products together
 - 🛠️ **Developer tooling** — gateways, adapters, and the glue between systems
 
+<p align="center">
+  <img src="assets/engrix-terminal.svg" alt="engrix --status" width="520">
+  &nbsp;&nbsp;
+  <img src="assets/engrix-working.svg" alt="Engrix mascot — working" width="110">
+</p>
+
 Every product here started as a tool that was actually needed, got battle-tested
 in daily use, then shipped.
 
@@ -26,12 +32,13 @@ in daily use, then shipped.
 
 ## Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="assets/engrix-stack.svg" alt="Python · FastAPI · Node.js · TypeScript · Docker · Git" width="660">
+</p>
+
+<p align="center">
+  <img src="assets/engrix-divider.svg" alt="" width="660">
+</p>
 
 ## Contact
 
